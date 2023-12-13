@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ALFAJ01
+- 👋 Hi, I’m @Mr. Soul Hacker
 - 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Computer science 
+- 🌱 I’m currently doing Masters in Computer science 
 - 💞️ I’m looking to collaborate on ...
+- Help each other and make a Happy Word 🫠
+- And don't Make to other as your Competitor 😮‍💨
+- Beacuse You are the Only one competitor of Yours 👉🏼
 - 📫 How to reach me ...
-
-<!---
-ALFAJ01/ALFAJ01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+      https://alfaj01.github.io/
+  
